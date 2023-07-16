@@ -1,0 +1,12 @@
+1689507971537 : ::1 GET : /api/users/
+1689507978651 : ::1 PATCH : /api/users/2
+1689507983014 : ::1 GET : /api/users/64b2d75dadedf8695f1fee5e
+1689507987632 : ::1 PATCH : /api/users/64b2d75dadedf8695f1fee5e
+1689507993809 : ::1 POST : /api/users
+1689508068702 : ::1 POST : /api/users
+1689508079124 : ::1 POST : /api/users
+1689508119704 : ::1 POST : /api/users
+1689508122474 : ::1 GET : /api/users/
+1689508135103 : ::1 POST : /api/users
+1689508136970 : ::1 GET : /api/users/64b2d75dadedf8695f1fee5e
+1689508140860 : ::1 PATCH : /api/users/64b2d75dadedf8695f1fee5e
